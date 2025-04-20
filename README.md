@@ -25,6 +25,10 @@ Forecast monthly electricity sales by sector and state for 2025–2026 using tim
 - Sector-level sales insights drive infrastructure and policy recommendations
 
 ## 📹 Demo Video
+Slides:
+https://www.canva.com/design/DAGlHS9sRAA/5JRrgaK1d2La0U4-EjuSQA/view?utm_content=DAGlHS9sRAA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h845332b022 
+
+Video:
 https://www.canva.com/design/DAGlHS9sRAA/5JRrgaK1d2La0U4-EjuSQA/view?utm_content=DAGlHS9sRAA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h845332b022 
 
 
